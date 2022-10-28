@@ -1,0 +1,10 @@
+cultura https://dle.rae.es/cultura?m=form
+haber https://dle.rae.es/haber?m=form
+hola https://dle.rae.es/hola?m=form
+paradigma https://dle.rae.es/paradigma?m=form
+resiliencia https://dle.rae.es/resiliencia?m=form
+vehemente https://dle.rae.es/vehemente?m=form
+casa https://dle.rae.es/casa?m=form
+periodo https://dle.rae.es/per%C3%ADodo
+inherente https://dle.rae.es/inherente?m=form
+inefable https://dle.rae.es/inefable?m=form
